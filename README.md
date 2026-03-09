@@ -1,5 +1,4 @@
 # rungler
-# rungler
 
 a circuit-bent chaotic synth voice for [norns](https://monome.org/docs/norns/)
 
